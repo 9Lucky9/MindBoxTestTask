@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxFigures", "MindBoxFigures\MindBoxFigures.csproj", "{EB89A18E-34F4-4ED3-BA1D-DBF695854A65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxFigures.Tests", "MindBoxFigures.Tests\MindBoxFigures.Tests.csproj", "{5C1DF260-1810-48D4-9DA4-58FFF8594F51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB89A18E-34F4-4ED3-BA1D-DBF695854A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB89A18E-34F4-4ED3-BA1D-DBF695854A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB89A18E-34F4-4ED3-BA1D-DBF695854A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB89A18E-34F4-4ED3-BA1D-DBF695854A65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C1DF260-1810-48D4-9DA4-58FFF8594F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C1DF260-1810-48D4-9DA4-58FFF8594F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C1DF260-1810-48D4-9DA4-58FFF8594F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C1DF260-1810-48D4-9DA4-58FFF8594F51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {242046E2-EDBE-47BA-9A88-C2774F6BA782}
+	EndGlobalSection
+EndGlobal
